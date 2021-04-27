@@ -12,8 +12,8 @@ Additional information about each feature can be found in the student_features.t
 
 The following Machine Learning models were implemented:
 
-- Decision Tree (DT)
-- Random Forest (RF)
+- Decision Tree Regression (DT)
+- Random Forest Regression (RF)
 - LightGBM (LGB)
 - XGBoost (XGB)
 
