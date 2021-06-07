@@ -23,10 +23,38 @@ The accuracies of each model were measured using R-Squared (R^2) Goodness-of-Fit
 
 ### Math
 
-- Decision Tree - **R^2:** 0.869, **RMSE:** 1.483
-- Random Forest - **R^2:** 0.880, **RMSE:**	1.451
-- LightGBM - **R^2:** 0.883, **RMSE:**	1.451
-- XGBoost - **R^2:** 0.904, **RMSE:**	1.311
+<table border = "1">
+  <thead>
+    <th colspan = "3">Regression Scores Per Model</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Model</b></td>
+      <td><b>R^2 Score</b></td>
+      <td><b>RMSE</b></td>
+    </tr>
+    <tr>
+      <td><b>Decision Tree (DT)</b></td>
+      <td>0.869</td>
+      <td>1.483</td>
+    </tr>
+    <tr>
+      <td><b>LightGBM (LGB)</b></td>
+      <td>0.883</td>
+      <td>1.451</td>
+    </tr>
+    <tr>
+      <td><b>Random Forest (RF)</b></td>
+      <td>0.880</td>
+      <td>1.451</td>
+    </tr>
+    <tr>
+      <td><b>XGBoost (XGB)</b></td>
+      <td>0.904</td>
+      <td>1.311</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Portuguese
 
