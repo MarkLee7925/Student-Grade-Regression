@@ -8,7 +8,7 @@ Both datasets were retrieved from the UCI Machine Learning Repository (link: htt
 
 Additional information about each feature can be found in the student_features.txt file.
 
-## Models:
+## Results:
 
 The accuracies of each model were measured using R-Squared (R^2) Goodness-of-Fit and Root Mean Squared Error (RMSE) scoring.
 
