@@ -10,15 +10,6 @@ Additional information about each feature can be found in the student_features.t
 
 ## Models:
 
-The following Machine Learning models were implemented:
-
-- Decision Tree Regression (DT)
-- Random Forest Regression (RF)
-- LightGBM (LGB)
-- XGBoost (XGB)
-
-## Results
-
 The accuracies of each model were measured using R-Squared (R^2) Goodness-of-Fit and Root Mean Squared Error (RMSE) scoring.
 
 ### Math
