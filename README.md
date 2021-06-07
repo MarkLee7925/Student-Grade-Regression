@@ -30,7 +30,7 @@ The accuracies of each model were measured using R-Squared (R^2) Goodness-of-Fit
   <tbody>
     <tr>
       <td><b>Model</b></td>
-      <td><b>R^2 Score</b></td>
+      <td><b>R^2</b></td>
       <td><b>RMSE</b></td>
     </tr>
     <tr>
