@@ -12,8 +12,6 @@ Additional information about each feature can be found in the student_features.t
 
 The accuracies of each model were measured using R-Squared (R^2) Goodness-of-Fit and Root Mean Squared Error (RMSE) scoring.
 
-### Math
-
 <table border = "1">
   <thead>
     <th colspan = "3">Regression Scores - Math</th>
@@ -47,7 +45,6 @@ The accuracies of each model were measured using R-Squared (R^2) Goodness-of-Fit
   </tbody>
 </table>
 
-### Portuguese
 
 <table border = "1">
   <thead>
