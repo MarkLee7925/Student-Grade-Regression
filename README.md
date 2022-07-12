@@ -13,10 +13,10 @@ Additional information about each feature can be found in the student_features.t
 The following models were implemented in this project:
 
 - Logistic Regresion (LR)
+- Linear Support Vector Regression (Linear SVR)
 - Decision Tree (DT)
 - Random Forest (RF)
 - XGBoost (XGB)
-- LightGBM (LGB)
 
 ## References:
 
