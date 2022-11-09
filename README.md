@@ -17,6 +17,7 @@ The following models were implemented in this project:
 - Decision Tree (DT)
 - Random Forest (RF)
 - XGBoost (XGB)
+- Deep Neural Network (DNN, upcoming...)
 
 ## References:
 
