@@ -4,7 +4,7 @@ The purpose of this Machine Learning regression project is to predict the final 
 
 ## Dataset:
 
-Both datasets were retrieved from the UCI Machine Learning Repository (see References below). The Math dataset (student-mat.csv) contained 395 samples whereas the Portuguese dataset (student-por.csv) contained 649 samples. Thus, here are 1044 samples each representing a single student.
+Both datasets were retrieved from the UCI Machine Learning Repository (see References below). The Math dataset (student-mat.csv) contained 395 samples whereas the Portuguese dataset (student-por.csv) contained 649 samples. In total, there are 1044 samples; each representing a single student.
 
 Additional information about each feature can be found in the student_features.txt file.
 
